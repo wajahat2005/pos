@@ -1,23 +1,19 @@
 <img width="150" src="assets/logo.png" alt="Due Kasir Logo">
 
-# Due Kasir — Open Source POS App
+# pos — Open Source POS App
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS-blue)](https://flutter.dev/multi-platform)
 [![Version](https://img.shields.io/badge/Version-1.0.1-green.svg)](pubspec.yaml)
 
-**Due Kasir** is a free and open-source Point of Sale (POS) application built with Flutter. It focuses on an **offline-first** experience, making it reliable even without an internet connection. Perfect for small businesses, shops, and warungs.
+**pos** is a free and open-source Point of Sale (POS) application built with Flutter. It focuses on an **offline-first** experience, making it reliable even without an internet connection. Perfect for small businesses, shops, and warungs.
 
-[<img src="https://github.com/hifiaz/duekasir/assets/20653803/b0af666a-99c3-414a-b9e0-0558e8bee10b" width="200">](https://play.google.com/store/apps/details?id=com.devindo.due_kasir)
 
 ---
 
 ## 📸 Screenshots
 
-> _Screenshots and demo videos coming soon._
-
----
 
 ## ✨ Features
 
