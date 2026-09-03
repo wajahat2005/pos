@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="app-images/Screenshot%202026-09-03%20145323.png" width="650" alt="Due Kasir / Wajahat POS Home Dashboard">
+  <img src="app-images/Screenshot%202026-09-03%20145323.png" width="650" alt="  / Wajahat POS Home Dashboard">
 </p>
 
-<h1 align="center">Due Kasir — Open Source POS App</h1>
+<h1 align="center">  — Open Source POS App</h1>
 
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter" alt="Flutter"></a>
@@ -15,7 +15,7 @@
 
 ## 📖 Overview
 
-**Due Kasir (Wajahat POS)** is a free, open-source Point of Sale (POS) and store management application built with **Flutter & Isar NoSQL Database**. Designed with an **offline-first** architecture, it guarantees reliable operations even without an internet connection, while seamlessly synchronizing data to the cloud whenever online. Perfect for retail shops, supermarkets, small businesses, and warungs.
+**  (Wajahat POS)** is a free, open-source Point of Sale (POS) and store management application built with **Flutter & Isar NoSQL Database**. Designed with an **offline-first** architecture, it guarantees reliable operations even without an internet connection, while seamlessly synchronizing data to the cloud whenever online. Perfect for retail shops, supermarkets, small businesses, and warungs.
 
 ---
 
