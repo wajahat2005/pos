@@ -1,4 +1,4 @@
-# DueKasir — Offline-First Point of Sale (POS) System
+# wajahat_POS — Offline-First Point of Sale (POS) System
 
 [![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)](#)
 [![Flutter 3.x](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -13,7 +13,7 @@
 
 ## Overview
 
-DueKasir is a desktop and mobile point-of-sale application designed for retail transactions. It operates zero-latency local transaction management via Isar DB and SQLite, with optional cloud backup powered by Supabase.
+wajahat_POS is a desktop and mobile point-of-sale application designed for retail transactions. It operates zero-latency local transaction management via Isar DB and SQLite, with optional cloud backup powered by Supabase.
 
 ---
 
